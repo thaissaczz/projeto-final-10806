@@ -1,0 +1,6 @@
+Write-Host "**Nome:** Thaissa Cuzzuol"
+Write-Host "**Background:** Arquiteta, Artista plastica e Designer Grafico"
+Write-Host "**Expectativa:** Aprender a trabalhar com dados e automatizar tarefas."
+Write-Host "**Nível Ninja na Consola:** 2"
+Write-Host "**Curiosidade:** Gosto de animes"
+Write-Host "**Especificações do PC:** Windows 11, Intel Core i5, GEFORCE 940M, 8GB RAM"

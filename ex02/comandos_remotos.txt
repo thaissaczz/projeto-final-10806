@@ -1,0 +1,20 @@
+# Comandos utilizados no Exercício 02
+
+# 1. Criar o script localmente
+vim limpeza_dados.sh
+
+# 2. Criar pasta que simula o servidor remoto
+mkdir ~/servidor_remoto
+
+# 3. Transferir o script para o servidor remoto
+scp limpeza_dados.sh thaissa@localhost:~/servidor_remoto/
+
+# 4. Aceder ao servidor remotamente via SSH
+ssh thaissa@localhost
+
+# 5. Editar o script no servidor com vim
+cd ~/servidor_remoto
+vim limpeza_dados.sh
+
+# 6. Sair do servidor
+exit
